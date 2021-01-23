@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bogelund's Hacker Notes
+title: Bøgelund's Hacker Notes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   For now, this page is just a placeholder for various notes on my journey
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carsten Bogelund"
+  name   : "Carsten Bøgelund"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "For now, this page is just a placeholder for various notes on my journey into the world of hacking."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
