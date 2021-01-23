@@ -8,16 +8,17 @@ tags:
 ---
 
 
-# Hashing & Password Cracking
+## Hashing & Password Cracking
 
-[hashes.com](https://hashes.com/en/tools/hash_identifier)
-[crackstation.net](https://crackstation.net/)
+> [hashes.com](https://hashes.com/en/tools/hash_identifier)
+> [crackstation.net](https://crackstation.net/)
 
-# Crypto
+## Crypto
 
 [CyberChef](https://gchq.github.io/CyberChef/)
 
 
-# Reverse Shells
+## Reverse Shells
 
 [GTFOBins](https://gtfobins.github.io/)
+
