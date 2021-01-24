@@ -1,7 +1,7 @@
 ---
 title: "Post: Notice"
 categories:
-  - Blog
+  - Jekyll Reference
 tags:
   - Post Formats
   - notice

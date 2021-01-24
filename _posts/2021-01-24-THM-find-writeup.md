@@ -2,7 +2,7 @@
 title: "THM writeup - The find command"
 date: 2021-01-23T10:00:00+02:00
 categories:
-  - blog
+  - Blog
   - THM Writeup
 tags:
   - find
