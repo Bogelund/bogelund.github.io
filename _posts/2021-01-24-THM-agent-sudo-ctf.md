@@ -9,11 +9,11 @@ tags:
   - THM
 ---
 
+Agent Sudo is a relatively easy and beginner friendly room. To complete this room we need to do some enumration, hash cracking, steganography, and privilege escalation. It going to bwe a lot of fun, so let's get started.
+
 >Thanks to tryhackme.com for creating such an amazing platform for the cyber security community
 
 ![](/assets/images/2021-01-24-14-54-28.png)
-
-Agent Sudo is a relatively easy and beginner friendly room. To complete this room we need to do some enumration, hash cracking, steganography, and privilege escalation. It going to bwe a lot of fun, so let's get started.
 
 Always - let's start out with having nmap doing a port scan
 
