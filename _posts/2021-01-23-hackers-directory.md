@@ -2,7 +2,7 @@
 title: "A Hacker's Directory"
 date: 2021-01-23T10:00:00+02:00
 categories:
-  - Blog
+  - Hacker Notes
 tags:
   - directory
 ---
