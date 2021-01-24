@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   towards the OSCP certification.
 twitter_username: mylifewithsql
 github_username: bogelund
-minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
