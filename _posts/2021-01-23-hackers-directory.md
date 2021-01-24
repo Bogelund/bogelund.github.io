@@ -10,8 +10,8 @@ tags:
 
 ## Hashing & Password Cracking
 
-[hashes.com](https://hashes.com/en/tools/hash_identifier)  
-[crackstation.net](https://crackstation.net/)
+[hashes.com: Identify hash types](https://hashes.com/en/tools/hash_identifier)  
+[crackstation.net: Free Password Hash Cracker](https://crackstation.net/)
 
 ## Crypto
 
