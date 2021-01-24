@@ -28,6 +28,10 @@ After we modified the User-Agent with **C** and forwarded the request, we got an
 
 ![](/assets/images/2021-01-24-15-55-01.png)
 
+In the browser
+
+![](/assets/images/2021-01-24-16-04-05.png)
+
 ### Task 2: Enumerate
 
 Enumerate the machine and get all the important information
@@ -39,12 +43,12 @@ Enumerate the machine and get all the important information
 How you redirect yourself to a secret page?
 
 ```
-???
+User-Agent
 ```
 
 What is the agent name?
 
 ```
-???
+Chris
 ```
 
