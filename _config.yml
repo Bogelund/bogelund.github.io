@@ -54,6 +54,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-figure
   - jemoji
   - jekyll-include-cache
 
