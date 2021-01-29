@@ -13,18 +13,11 @@ Agent Sudo is a relatively easy and beginner friendly room. To complete this roo
 
 >Thanks to tryhackme.com for creating such an amazing platform for the cyber security community
 
-The figure
-
-{% include figure image_path="/assets/images/2021-01-24-14-54-28.png" alt="this is a placeholder image" caption="This is a figure caption." %}
-
-and original 
-
-![](/assets/images/2021-01-24-14-54-28.png)
+{% include figure image_path="/assets/images/2021-01-24-14-54-28.png" alt="" caption="" %}
 
 Always - let's start out with having nmap doing a port scan
 
-![](/assets/images/2021-01-24-15-16-20.png)
-
+{% include figure image_path="/assets/images/2021-01-24-15-16-20.png" alt="" caption="" %}
 
 When port 80 is open it is always a good thing to start with inspecting the website
 
