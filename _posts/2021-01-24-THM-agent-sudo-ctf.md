@@ -13,6 +13,12 @@ Agent Sudo is a relatively easy and beginner friendly room. To complete this roo
 
 >Thanks to tryhackme.com for creating such an amazing platform for the cyber security community
 
+<figure>
+  <img src="assets/images/2021-01-24-14-54-28.png">
+</figure>
+
+And then another picture
+
 ![](/assets/images/2021-01-24-14-54-28.png)
 
 Always - let's start out with having nmap doing a port scan
