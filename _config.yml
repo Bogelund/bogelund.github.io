@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Carsten Bogelund"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "For now, this page is just a placeholder for various notes on my journey into the world of hacking."
+  bio    : "This is a place where I will keep all my notes in preparation for OSCP certification."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

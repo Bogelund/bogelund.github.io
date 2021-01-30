@@ -1,10 +1,11 @@
 ---
-title: "A Hacker's Directory"
+title: "OSCP Cheatsheet"
 date: 2021-01-23T10:00:00+02:00
 categories:
-  - Hacker Notes
+  - OSCP
 tags:
-  - directory
+  - oscp
+  - cheatsheet
 ---
 
 
