@@ -2,7 +2,7 @@
 title: "OSCP Cheatsheet"
 date: 2021-01-23T10:00:00+02:00
 categories:
-  - OSCP
+  - blog
 tags:
   - oscp
   - cheatsheet

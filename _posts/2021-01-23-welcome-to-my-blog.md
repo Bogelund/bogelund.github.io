@@ -2,7 +2,7 @@
 title: "Welcome to my blog!"
 date: 2021-01-23T09:00:00+02:00
 categories:
-  - Blog
+  - blog
 tags:
   - Welcome
   - update

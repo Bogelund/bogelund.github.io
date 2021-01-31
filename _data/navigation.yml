@@ -1,4 +1,7 @@
+# main links
 main:
+  - title: "OSCP"
+    url: /oscp/
   - title: "Posts"
     url: /posts/
   - title: "Categories"

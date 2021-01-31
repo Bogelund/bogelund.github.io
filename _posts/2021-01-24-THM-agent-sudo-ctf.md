@@ -2,7 +2,7 @@
 title: "THM writeup - Agent Sudo"
 date: 2021-01-24T14:00:00+02:00
 categories:
-  - THM Writeups
+  - blog
 tags:
   - sudo
   - writeup
