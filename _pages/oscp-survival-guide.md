@@ -6,4 +6,28 @@ last_modified_at: 2020-07-27
 toc: true
 ---
 
-# Hello World from _pages
+# General
+
+Set the target IP to a $ip system variable
+> export ip=10.10.1.0
+
+# String Manipulation
+
+Count number of lines in file
+> wc -l index.html
+
+
+## Hashing & Password Cracking
+
+[hashes.com: Identify hash types](https://hashes.com/en/tools/hash_identifier)  
+[crackstation.net: Free Password Hash Cracker](https://crackstation.net/)
+
+### Crypto
+
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+
+#### Reverse Shells
+
+[GTFOBins](https://gtfobins.github.io/)
+

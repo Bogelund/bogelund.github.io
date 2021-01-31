@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "OSCP"
-    url: /oscp/oscp-survival-guide/
+    url: /oscp/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
