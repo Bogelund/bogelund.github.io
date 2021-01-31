@@ -16,10 +16,23 @@ oscp:
   - title: OSCP
     children:
       - title: "Kali Linux"
-        url: /oscp/
+        url: /
     children:
       - title: "Information Gathering & Vulnerability Scanning"
-        url: /oscp/
+        url: /
     children:
       - title: "Privilege Escalation"
-        url: /oscp/
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+
