@@ -12,24 +12,25 @@ toc: true
 # General
 
 1. Set the target IP to a $ip system variable
-   1. export ip=10.10.1.0
+  export ip=10.10.1.0
 
 # String Manipulation
 
 1. Count number of lines in file
-   1. wc -l index.html
+  wc -l index.html
+
 
 ## Hashing & Password Cracking
 
 [hashes.com: Identify hash types](https://hashes.com/en/tools/hash_identifier)  
 [crackstation.net: Free Password Hash Cracker](https://crackstation.net/)
 
-## Crypto
+### Crypto
 
 [CyberChef](https://gchq.github.io/CyberChef/)
 
 
-## Reverse Shells
+#### Reverse Shells
 
 [GTFOBins](https://gtfobins.github.io/)
 
