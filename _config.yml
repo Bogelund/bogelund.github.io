@@ -21,7 +21,7 @@ minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neo
 locale                   : "en-US"
 title                    : Bogelund's Notes
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
+subtitle                 : "My journey to the OSCP certification"
 name                     : &name "Carsten Bogelund" # &name is a YAML anchor which can be *referenced later
 description              : &description "For now, this page is just a placeholder for various notes on my journey towards the OSCP certification."
 
