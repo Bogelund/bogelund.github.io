@@ -8,24 +8,50 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bogelund's Notes
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  For now, this page is just a placeholder for various notes on my journey
-  towards the OSCP certification.
-twitter_username: mylifewithsql
+locale                   : "en-US"
+title                    : Bogelund's Notes
+title_separator          : "-"
+subtitle                 : "A Jekyll theme"
+name                     : &name "Carsten Bogelund" # &name is a YAML anchor which can be *referenced later
+description              : &description "For now, this page is just a placeholder for various notes on my journey towards the OSCP certification."
+
+
 github_username: bogelund
-minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# SEO Related
+google_site_verification : 
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               : &twitter "mylifewithsql"
+facebook:
+  username               : &facebook "carsten.bogelund"
+  app_id                 :
+  publisher              :
+og_image                 : # "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/mylifewithsql"
+    - "https://www.facebook.com/carsten.bogelund"
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -58,14 +84,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
-  name   : "Carsten Bogelund"
+  name   : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "This is a place where I will keep all my notes in preparation for OSCP certification."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -76,6 +103,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Site Footer
 footer:
   links:
     - label: "Twitter"
