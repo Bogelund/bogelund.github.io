@@ -6,14 +6,18 @@ categories:
 tags:
   - oscp
   - cheatsheet
+toc: true
 ---
 
-# Kali Linux
+# General
 
 1. Set the target IP to a $ip system variable
    1. export ip=10.10.1.0
 
+# String Manipulation
 
+1. Count number of lines in file
+   1. wc -l index.html
 
 ## Hashing & Password Cracking
 
