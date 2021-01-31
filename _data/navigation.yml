@@ -23,17 +23,19 @@ oscp:
         url: /
   - title: "Information Gathering & Vulnerability Scanning"
     children:
-      - title: "Child Page B1"
+      - title: "Passive Information Gathering"
         url: /
-      - title: "Child Page B2"
+      - title: "Active Information Gathering"
         url: /
-      - title: "Child Page B3"
+      - title: "Port Scanning"
         url: /
-      - title: "Child Page B4"
+      - title: "Enumeration"
         url: /
-      - title: "Child Page B5"
+      - title: "HTTP Enumeration"
         url: /
   - title: "Privilege Escalation"
     children:
-      - title: "Child B"
+      - title: "Linux Privilege Escalation"
+        url: /
+      - title: "Windows Privilege Escalation"
         url: /
