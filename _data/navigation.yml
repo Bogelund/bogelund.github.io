@@ -16,4 +16,4 @@ oscp:
   - title: OSCP
     children:
       - title: "Survival Guide"
-        url: /osco/oscp-survival-guide/
+        url: /oscp/oscp-survival-guide/
