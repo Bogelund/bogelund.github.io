@@ -13,17 +13,15 @@ main:
 
 # oscp links
 oscp:
-  - title: OSCP
+  - title: Kali Linux
     children:
-      - title: "Kali Linux"
+      - title: "Linux Area 1"
         url: /
-    children:
-      - title: "Information Gathering & Vulnerability Scanning"
+      - title: "Linux Area 2"
         url: /
-    children:
-      - title: "Privilege Escalation"
+      - title: "Linux Area 3"
         url: /
-  - title: "Parent Page B"
+  - title: "Information Gathering & Vulnerability Scanning"
     children:
       - title: "Child Page B1"
         url: /
@@ -35,4 +33,7 @@ oscp:
         url: /
       - title: "Child Page B5"
         url: /
-
+  - title: "Privilege Escalation"
+    children:
+      - title: "Child B"
+        url: /
