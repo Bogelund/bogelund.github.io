@@ -10,3 +10,10 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+# oscp links
+oscp:
+  - title: OSCP
+    children:
+      - title: "Survival Guide"
+        url: /osco/oscp-survival-guide/
