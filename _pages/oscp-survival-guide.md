@@ -3,6 +3,9 @@ title: "OSCP Survival Guide"
 permalink: /oscp/
 excerpt: "My humble version of an OSCP Survival Guide"
 last_modified_at: 2020-07-27
+sidebar:
+  title: "OSCP Survival Guide"
+  nav: oscp
 toc: true
 ---
 

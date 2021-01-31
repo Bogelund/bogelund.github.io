@@ -15,5 +15,11 @@ main:
 oscp:
   - title: OSCP
     children:
-      - title: "Survival Guide"
-        url: /oscp/oscp-survival-guide/
+      - title: "Kali Linux"
+        url: /oscp/
+    children:
+      - title: "Information Gathering & Vulnerability Scanning"
+        url: /oscp/
+    children:
+      - title: "Privilege Escalation"
+        url: /oscp/
