@@ -1,5 +1,5 @@
 ---
-title: "Kali Linux - General"
+title: "Kali Linux - General Commands"
 permalink: /oscp/kali-linux-general/
 excerpt: "My humble version of an OSCP Survival Guide"
 last_modified_at: 2020-07-31
@@ -26,7 +26,7 @@ toc: true
 * Unzip a tar.gz file\
 `tar -xzvf file.tar.gz`
 
-# String Manipulation
+## String Manipulation
 
 * Count number of lines in file\
 `wc -l index.html`
