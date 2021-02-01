@@ -12,15 +12,21 @@ toc: true
 # General
 
 -   Set the target IP to a $ip system variable
-    `export ip=10.10.1.0`
+```
+export ip=10.10.1.0`
+```
 
 -   Unzip a gz file  
-    `gunzip file.gz`
+```
+gunzip file.gz
+```
 
 # String Manipulation
 
 Count number of lines in file
-`wc -l index.html`
+```
+wc -l index.html
+```
 
 
 ## Hashing & Password Cracking
