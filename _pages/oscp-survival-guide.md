@@ -11,16 +11,11 @@ toc: true
 
 # General
 
-* Set the target IP to a $ip system variable
-```
-export ip=10.10.1.0
-```
+* Set the target IP to a `$ip` system variable:\
+* `export ip=10.10.1.0`
 
-* Start a service
-```
-systemctl start ssh
-systemctl start apache2
-```
+* Start a service\
+`systemctl start ssh`
 
 * Have a service start at boot
 ```
