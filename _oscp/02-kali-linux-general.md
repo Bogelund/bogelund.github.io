@@ -1,15 +1,10 @@
 ---
-title: "OSCP Survival Guide"
+title: "Kali Linux - General"
 permalink: /oscp/kali-linux-general/
 excerpt: "My humble version of an OSCP Survival Guide"
 last_modified_at: 2020-07-31
-sidebar:
-  title: "Kali"
-  nav: oscp
 toc: true
 ---
-
-# Hello World from 02-kali-linux-general
 
 # General
 
