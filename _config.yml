@@ -127,6 +127,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Collections
+collections:
+  oscp:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -149,7 +155,7 @@ defaults:
   # _oscp
   - scope:
       path: ""
-      type: pages
+      type: oscp
     values:
       layout: single
       read_time: false
