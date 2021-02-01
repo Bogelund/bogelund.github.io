@@ -17,13 +17,11 @@ toc: true
 * Google inurl\
 `inurl:"level/15/sexec/-/show"`
 
-* Google Hacking Database\
-[Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
 
 ## Other Information Gathering
 
-* SSL Certificate Testing\
-[SSLLabs](https://www.ssllabs.com/ssltest/analyze.html)
+* [SSL Certificate Testing](https://www.ssllabs.com/ssltest/analyze.html)
 
 * Whois Enumeration\
 `whois microsoft.com`
