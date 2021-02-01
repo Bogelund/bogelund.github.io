@@ -16,24 +16,24 @@ oscp:
   - title: Kali Linux
     children:
       - title: "Kali Linux - General"
-        url: /oscp/kali-linux-general/
-      - title: "Linux Area 2"
-        url: /
-      - title: "Linux Area 3"
-        url: /
+        url: /oscp/kali-linux-1/
+      - title: "Kali Linux - ??"
+        url: /oscp/kali-linux-2/
+      - title: "Kali Linux - ??"
+        url: /oscp/kali-linux-3/
   - title: "Information Gathering & Vulnerability Scanning"
     children:
       - title: "Passive Information Gathering"
-        url: /
+        url: /oscp/passive-information-gathering/
       - title: "Active Information Gathering"
-        url: /
-      - title: "Port Scanning"
-        url: /
-      - title: "Enumeration"
-        url: /
-      - title: "HTTP Enumeration"
-        url: /
-  - title: "Privilege Escalation"
+        children:
+          - title: "Port Scanning"
+            url: /oscp/port-scanning/
+          - title: "Enumeration"
+            url: /oscp/enumeration/
+          - title: "HTTP Enumeration"
+            url: /oscp/http-enumeration
+    - title: "Privilege Escalation"
     children:
       - title: "Linux Privilege Escalation"
         url: /

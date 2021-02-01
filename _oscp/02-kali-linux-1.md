@@ -1,8 +1,8 @@
 ---
 title: "Kali Linux - General Commands"
-permalink: /oscp/kali-linux-general/
+permalink: /oscp/kali-linux-1/
 excerpt: "My humble version of an OSCP Survival Guide"
-last_modified_at: 2020-07-31
+last_modified_at: 2020-02-01
 toc: true
 ---
 
