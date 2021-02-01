@@ -6,8 +6,7 @@ last_modified_at: 2020-07-31
 sidebar:
   title: "OSCP Survival Guide"
   nav: oscp
-toc: true
 ---
 
-# Hello World from 01-oscp-survival-guide
+# Hello World
 
