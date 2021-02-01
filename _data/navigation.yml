@@ -26,14 +26,8 @@ oscp:
       - title: "Passive Information Gathering"
         url: /oscp/passive-information-gathering/
       - title: "Active Information Gathering"
-        children:
-          - title: "Port Scanning"
-            url: /oscp/port-scanning/
-          - title: "Enumeration"
-            url: /oscp/enumeration/
-          - title: "HTTP Enumeration"
-            url: /oscp/http-enumeration
-    - title: "Privilege Escalation"
+        url: /oscp/active-information-gathering/
+  - title: "Privilege Escalation"
     children:
       - title: "Linux Privilege Escalation"
         url: /
