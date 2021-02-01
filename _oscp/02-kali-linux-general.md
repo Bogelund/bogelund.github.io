@@ -1,6 +1,6 @@
 ---
 title: "OSCP Survival Guide"
-permalink: /old/
+permalink: /oscp/kali-linux-general/
 excerpt: "My humble version of an OSCP Survival Guide"
 last_modified_at: 2020-07-31
 sidebar:
@@ -8,6 +8,8 @@ sidebar:
   nav: oscp
 toc: true
 ---
+
+# Hello World from 02-kali-linux-general
 
 # General
 
@@ -29,24 +31,7 @@ toc: true
 * Unzip a tar.gz file\
 `tar -xzvf file.tar.gz`
 
-
 # String Manipulation
 
 * Count number of lines in file\
 `wc -l index.html`
-
-
-## Hashing & Password Cracking
-
-[hashes.com: Identify hash types](https://hashes.com/en/tools/hash_identifier)  
-[crackstation.net: Free Password Hash Cracker](https://crackstation.net/)
-
-### Crypto
-
-[CyberChef](https://gchq.github.io/CyberChef/)
-
-
-#### Reverse Shells
-
-[GTFOBins](https://gtfobins.github.io/)
-
