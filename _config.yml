@@ -149,7 +149,7 @@ defaults:
   # _oscp
   - scope:
       path: ""
-      type: oscp
+      type: pages
     values:
       layout: single
       read_time: false
