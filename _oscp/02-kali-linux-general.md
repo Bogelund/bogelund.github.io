@@ -6,7 +6,7 @@ last_modified_at: 2020-07-31
 toc: true
 ---
 
-# General
+## General
 
 * Set the target IP to a `$ip` system variable\
 `export ip=10.10.1.0`
