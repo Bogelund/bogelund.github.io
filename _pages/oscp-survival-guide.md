@@ -11,8 +11,11 @@ toc: true
 
 # General
 
-Set the target IP to a $ip system variable
-`export ip=10.10.1.0`
+-   Set the target IP to a $ip system variable
+    `export ip=10.10.1.0`
+
+-   Unzip a gz file  
+    `gunzip file.gz`
 
 # String Manipulation
 
