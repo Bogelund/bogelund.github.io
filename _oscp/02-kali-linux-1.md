@@ -47,7 +47,7 @@ toc: true
 
 ## find Commands3
 
-| What                                                                                     | Example                                   |
-|:-----------------------------------------------------------------------------------------|------------------------------------------:|
-| Find files based on filename\ find [directory path] -type f -name [filename]             | find /home/Andy -type f -name sales.txt   |
-| Find Directory based on directory name\ find [directory path] -type d -name [filename]   | find /home/Andy -type d -name pictures    |
+| What                                                                                       | Example                                   |
+|:-------------------------------------------------------------------------------------------|------------------------------------------:|
+| Find files based on filename<br>find [directory path] -type f -name [filename]             | find /home/Andy -type f -name sales.txt   |
+| Find Directory based on directory name<br>find [directory path] -type d -name [filename]   | find /home/Andy -type d -name pictures    |
