@@ -34,7 +34,7 @@ toc: true
 ## find Commands
 
 | What                                     | Syntax                                           | Example                                   |
-|:-----------------------------------------|:------------------------------------------------:|------------------------------------------:|
+|------------------------------------------|--------------------------------------------------|-------------------------------------------|
 | Find files based on filename             | find [directory path] -type f -name [filename]   | find /home/Andy -type f -name sales.txt   |
 | Find Directory based on directory name   | find [directory path] -type d -name [filename]   | find /home/Andy -type d -name pictures    |
 
