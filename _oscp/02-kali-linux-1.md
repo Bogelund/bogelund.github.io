@@ -44,5 +44,5 @@ toc: true
 | Find files based on date modified                 | find / -type f -newermt 2013-09-12 ! -newermt 2013-09-14 |
 | Find files based on date accessed                 | find / -type f -newerat 2017-09-12 ! -newerat 2017-09-14 |
 | Find files with a specific keyword                | grep -iRl '/folderA/flag'                                |
-| Find files with a specific pattern (ex. IP)       | <code>cat * \| grep -Eo "([0-9]{1,3}[\.]){3}[0-9]{1,3}"</code>        |
+| Find files with a specific pattern (ex. IP)       | cat * \| grep -Eo "([0-9]{1,3}[\.]){3}[0-9]{1,3}"        |
 | read the manual for the find command              | man find                                                 |
