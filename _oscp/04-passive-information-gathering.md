@@ -26,4 +26,4 @@ toc: true
 * Whois Enumeration\
 `whois microsoft.com`
 `whois $ip`
- 
+  
